@@ -1,0 +1,17 @@
+lista= ["agua", 3.5, 6, "feijao"]
+lista.append ("catatau")
+lista.append ("python")
+lista.pop(1)
+print (lista)
+
+lista_01=["catatau","str"]
+lista_01.sort()
+print (lista_01)
+print(id(lista))
+
+# numeros=[1,2,3,4,5]
+# multiplicandos=[]
+# for numero in numeros:
+#     multiplicado numeros * 5
+#     multiplicados.append(multiplicados)
+#     print (multiplicados)
